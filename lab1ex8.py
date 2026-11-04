@@ -1,0 +1,1 @@
+extract_even = lambda l: [number for number in l if number % 2 == 0]
